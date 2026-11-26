@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Rabia Gulluk",
-    "description": "I'm a developer in Edmonton, interested in programming and web development.",
+    "description": "I'm a student developer in Edmonton, interested in programming and web development.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -24,14 +24,14 @@
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
-    "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
+    "name": "Rabia Gulluk",
+    "summary": "I'm a student developer in Edmonton, interested in programming and web development",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/rabiagg1/DMIT-2008-Theory-2"
       },
       {
         "ariaLabel": "linkedin profile",
