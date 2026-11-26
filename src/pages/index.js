@@ -7,6 +7,7 @@ import TimeZone from "../components/TimeZoneCard";
 import AboutMe from "../components/AboutMe";
 import Now from "../components/Now";
 import WeatherCard from "../components/WeatherCard";
+import profileData from "@/data/profile.json";
 import { getWeatherForProfile } from "@/lib/weather";
 // import Globe from "../components/Globe";
 

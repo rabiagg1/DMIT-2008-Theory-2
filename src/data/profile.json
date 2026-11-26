@@ -70,7 +70,7 @@
       "SQL"
     ],
     "passion": "Im passionate about programming, learning new skills and solving",
-    "approach": "My goal is to improve my programming skills and create user-friendly applications.",
+  "approach": "My goal is to improve my programming skills and create user-friendly applications."  },
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
@@ -116,4 +116,3 @@
     }
   }
   }
-}
