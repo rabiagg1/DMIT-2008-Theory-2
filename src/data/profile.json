@@ -80,7 +80,7 @@
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://github.com/rabiagg1/DMIT-2008-Theory-2"
+        "url": "git add src/data/profile.json package.json package-lock.json"
       },
       {
         "label": "Github",
@@ -114,5 +114,6 @@
       "message": "This area is reserved for a new component that is currently being designed.",
       "cta": "Design in progress"
     }
+  }
   }
 }
